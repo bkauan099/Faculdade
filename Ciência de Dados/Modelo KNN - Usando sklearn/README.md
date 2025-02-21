@@ -5,7 +5,7 @@ Este projeto faz parte do curso de Engenharia da Computação e tem como objetiv
 
 ## Estrutura do Projeto
 - `P3_IA.py`: Script principal que contém a implementação das técnicas de IA.
-- `german_data.xlsx`, `german_transformado.xlsx`: Conjuntos de dados em formato Excel.
+- `german_transformado.xlsx`: Conjuntos de dados em formato Excel.
 - `german.data`, `german.data-numeric`, `german.doc`: Conjuntos de dados e documentação relacionados ao dataset German.
 - `P3_Exemplos_metricas.ipynb`: Notebook Jupyter com exemplos de métricas utilizadas no projeto.
 
